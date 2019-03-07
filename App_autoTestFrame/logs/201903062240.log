@@ -1,0 +1,16 @@
+2019-03-06 22:41:07,204-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000001FF1366ECF8>找到页面元素('id', 'com.pdswp.su.smartcalendar:id/note_title')
+2019-03-06 22:41:10,827-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000001FF1366ECF8>长按('id', 'com.pdswp.su.smartcalendar:id/note_title')
+2019-03-06 22:41:10,887-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000001FF1366ECF8>找到页面元素('name', '归档')
+2019-03-06 22:41:13,088-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000001FF1366ECF8>点击('name', '归档')
+2019-03-06 22:41:13,251-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000001FF1366ECF8>找到页面元素('id', 'com.pdswp.su.smartcalendar:id/actionbar_left')
+2019-03-06 22:41:15,242-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000001FF1366ECF8>点击('id', 'com.pdswp.su.smartcalendar:id/actionbar_left')
+2019-03-06 22:41:15,530-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000001FF1366ECF8>找到页面元素('name', '归档')
+2019-03-06 22:41:15,916-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000001FF1366ECF8>点击('name', '归档')
+2019-03-06 22:41:18,025-BasePage-INFO-<pageobjects.base.BasePage object at 0x000001FF1366ED30>找到页面元素('name', 'BWL02')
+2019-03-06 22:41:18,175-Register-INFO-归档断言成功
+2019-03-06 22:41:21,691-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000001FF1366ECF8>找到页面元素('name', '恢复')
+2019-03-06 22:41:22,084-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000001FF1366ECF8>点击('name', '恢复')
+2019-03-06 22:41:23,744-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000001FF1366ECF8>找到页面元素('id', 'com.pdswp.su.smartcalendar:id/ab_icon2')
+2019-03-06 22:41:24,753-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000001FF1366ECF8>点击('id', 'com.pdswp.su.smartcalendar:id/ab_icon2')
+2019-03-06 22:41:25,670-BasePage-INFO-<pageobjects.base.BasePage object at 0x000001FF1366ED30>找到页面元素('name', 'BWL02')
+2019-03-06 22:41:25,779-Register-INFO-还原备忘录断言成功

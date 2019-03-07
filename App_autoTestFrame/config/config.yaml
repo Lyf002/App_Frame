@@ -1,0 +1,5 @@
+platformName: Android
+platformVersion: 6.2.7.1
+deviceName: 127.0.0.1:62001
+sessionOverride: True
+noReset: True

@@ -1,0 +1,46 @@
+2019-03-06 19:29:47,440-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000002017AE1F240>找到页面元素('id', 'com.pdswp.su.smartcalendar:id/actionbar_left')
+2019-03-06 19:29:48,102-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000002017AE1F240>点击('id', 'com.pdswp.su.smartcalendar:id/actionbar_left')
+2019-03-06 19:29:49,188-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000002017AE1F240>找到页面元素('id', 'com.pdswp.su.smartcalendar:id/username')
+2019-03-06 19:29:49,554-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000002017AE1F240>点击('id', 'com.pdswp.su.smartcalendar:id/username')
+2019-03-06 19:29:51,261-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000002017AE1F240>找到页面元素('id', 'com.pdswp.su.smartcalendar:id/email')
+2019-03-06 19:30:06,096-BasePage-INFO-截图成功
+2019-03-06 19:30:06,097-BasePage-ERROR-清除内容失败！
+2019-03-06 19:30:17,869-BasePage-INFO-截图成功
+2019-03-06 19:30:17,869-BasePage-ERROR-<pageobjects.home_page.HomePage object at 0x000002017AE1F240>页面元素未找到--('id', 'com.pdswp.su.smartcalendar:id/email')
+2019-03-06 19:30:18,500-BasePage-INFO-截图成功
+2019-03-06 19:30:18,501-BasePage-ERROR-<pageobjects.home_page.HomePage object at 0x000002017AE1F240>输入失败！('id', 'com.pdswp.su.smartcalendar:id/email')
+2019-03-06 19:30:29,971-BasePage-INFO-截图成功
+2019-03-06 19:30:29,972-BasePage-ERROR-<pageobjects.home_page.HomePage object at 0x000002017AE1F240>页面元素未找到--('id', 'com.pdswp.su.smartcalendar:id/password')
+2019-03-06 19:30:30,678-BasePage-INFO-截图成功
+2019-03-06 19:30:30,679-BasePage-ERROR-清除内容失败！
+2019-03-06 19:30:48,680-BasePage-INFO-截图成功
+2019-03-06 19:30:48,680-BasePage-ERROR-<pageobjects.home_page.HomePage object at 0x000002017AE1F240>页面元素未找到--('id', 'com.pdswp.su.smartcalendar:id/password')
+2019-03-06 19:30:50,385-BasePage-INFO-截图成功
+2019-03-06 19:30:50,385-BasePage-ERROR-<pageobjects.home_page.HomePage object at 0x000002017AE1F240>输入失败！('id', 'com.pdswp.su.smartcalendar:id/password')
+2019-03-06 19:31:02,916-BasePage-INFO-截图成功
+2019-03-06 19:31:02,917-BasePage-ERROR-<pageobjects.home_page.HomePage object at 0x000002017AE1F240>页面元素未找到--('id', 'com.pdswp.su.smartcalendar:id/login')
+2019-03-06 19:31:04,401-BasePage-INFO-截图成功
+2019-03-06 19:31:04,402-BasePage-ERROR-<pageobjects.home_page.HomePage object at 0x000002017AE1F240>单击失败('id', 'com.pdswp.su.smartcalendar:id/login')！
+2019-03-06 19:31:26,884-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000002017AEACCC0>找到页面元素('id', 'com.pdswp.su.smartcalendar:id/actionbar_left')
+2019-03-06 19:31:27,219-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000002017AEACCC0>点击('id', 'com.pdswp.su.smartcalendar:id/actionbar_left')
+2019-03-06 19:31:28,271-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000002017AEACCC0>找到页面元素('id', 'com.pdswp.su.smartcalendar:id/username')
+2019-03-06 19:31:28,664-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000002017AEACCC0>点击('id', 'com.pdswp.su.smartcalendar:id/username')
+2019-03-06 19:31:30,592-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000002017AEACCC0>找到页面元素('id', 'com.pdswp.su.smartcalendar:id/email')
+2019-03-06 19:31:44,447-BasePage-INFO-截图成功
+2019-03-06 19:31:44,448-BasePage-ERROR-清除内容失败！
+2019-03-06 19:31:56,110-BasePage-INFO-截图成功
+2019-03-06 19:31:56,110-BasePage-ERROR-<pageobjects.home_page.HomePage object at 0x000002017AEACCC0>页面元素未找到--('id', 'com.pdswp.su.smartcalendar:id/email')
+2019-03-06 19:31:56,846-BasePage-INFO-截图成功
+2019-03-06 19:31:56,846-BasePage-ERROR-<pageobjects.home_page.HomePage object at 0x000002017AEACCC0>输入失败！('id', 'com.pdswp.su.smartcalendar:id/email')
+2019-03-06 19:32:08,034-BasePage-INFO-截图成功
+2019-03-06 19:32:08,035-BasePage-ERROR-<pageobjects.home_page.HomePage object at 0x000002017AEACCC0>页面元素未找到--('id', 'com.pdswp.su.smartcalendar:id/password')
+2019-03-06 19:32:08,681-BasePage-INFO-截图成功
+2019-03-06 19:32:08,681-BasePage-ERROR-清除内容失败！
+2019-03-06 19:32:20,278-BasePage-INFO-截图成功
+2019-03-06 19:32:20,279-BasePage-ERROR-<pageobjects.home_page.HomePage object at 0x000002017AEACCC0>页面元素未找到--('id', 'com.pdswp.su.smartcalendar:id/password')
+2019-03-06 19:32:21,051-BasePage-INFO-截图成功
+2019-03-06 19:32:21,051-BasePage-ERROR-<pageobjects.home_page.HomePage object at 0x000002017AEACCC0>输入失败！('id', 'com.pdswp.su.smartcalendar:id/password')
+2019-03-06 19:32:32,308-BasePage-INFO-截图成功
+2019-03-06 19:32:32,308-BasePage-ERROR-<pageobjects.home_page.HomePage object at 0x000002017AEACCC0>页面元素未找到--('id', 'com.pdswp.su.smartcalendar:id/login')
+2019-03-06 19:32:32,933-BasePage-INFO-截图成功
+2019-03-06 19:32:32,933-BasePage-ERROR-<pageobjects.home_page.HomePage object at 0x000002017AEACCC0>单击失败('id', 'com.pdswp.su.smartcalendar:id/login')！

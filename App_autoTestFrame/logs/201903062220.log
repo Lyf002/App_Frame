@@ -1,0 +1,33 @@
+2019-03-06 22:20:54,188-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000001FED16796A0>找到页面元素('id', 'com.pdswp.su.smartcalendar:id/actionbar_left')
+2019-03-06 22:20:54,826-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000001FED16796A0>点击('id', 'com.pdswp.su.smartcalendar:id/actionbar_left')
+2019-03-06 22:20:55,931-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000001FED16796A0>找到页面元素('id', 'com.pdswp.su.smartcalendar:id/design_menu_item_text')
+2019-03-06 22:20:56,614-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000001FED16796A0>点击('id', 'com.pdswp.su.smartcalendar:id/design_menu_item_text')
+2019-03-06 22:20:58,630-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000001FED16796A0>找到页面元素('id', 'com.pdswp.su.smartcalendar:id/add_input_content')
+2019-03-06 22:21:04,053-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000001FED16796A0>输入('id', 'com.pdswp.su.smartcalendar:id/add_input_content')
+2019-03-06 22:21:04,584-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000001FED16796A0>找到页面元素('id', 'com.pdswp.su.smartcalendar:id/quick_add')
+2019-03-06 22:21:05,097-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x000001FED16796A0>点击('id', 'com.pdswp.su.smartcalendar:id/quick_add')
+2019-03-06 22:21:17,101-BasePage-INFO-截图成功
+2019-03-06 22:21:17,102-BasePage-ERROR-<pageobjects.home_page.HomePage object at 0x000001FED16796A0>页面元素未找到--('id', 'com.pdswp.su.smartcalendar:id/menuAdd')
+2019-03-06 22:21:18,088-BasePage-INFO-截图成功
+2019-03-06 22:21:18,088-BasePage-ERROR-<pageobjects.home_page.HomePage object at 0x000001FED16796A0>单击失败('id', 'com.pdswp.su.smartcalendar:id/menuAdd')！
+2019-03-06 22:21:29,919-BasePage-INFO-截图成功
+2019-03-06 22:21:29,920-BasePage-ERROR-<pageobjects.home_page.HomePage object at 0x000001FED16796A0>页面元素未找到--('id', 'com.pdswp.su.smartcalendar:id/add_input_content')
+2019-03-06 22:21:30,893-BasePage-INFO-截图成功
+2019-03-06 22:21:30,894-BasePage-ERROR-<pageobjects.home_page.HomePage object at 0x000001FED16796A0>输入失败！('id', 'com.pdswp.su.smartcalendar:id/add_input_content')
+2019-03-06 22:21:42,714-BasePage-INFO-截图成功
+2019-03-06 22:21:42,714-BasePage-ERROR-<pageobjects.home_page.HomePage object at 0x000001FED16796A0>页面元素未找到--('id', 'com.pdswp.su.smartcalendar:id/add_color_green')
+2019-03-06 22:21:43,690-BasePage-INFO-截图成功
+2019-03-06 22:21:43,691-BasePage-ERROR-<pageobjects.home_page.HomePage object at 0x000001FED16796A0>单击失败('id', 'com.pdswp.su.smartcalendar:id/add_color_green')！
+2019-03-06 22:21:55,468-BasePage-INFO-截图成功
+2019-03-06 22:21:55,469-BasePage-ERROR-<pageobjects.home_page.HomePage object at 0x000001FED16796A0>页面元素未找到--('id', 'com.pdswp.su.smartcalendar:id/quick_add')
+2019-03-06 22:21:56,427-BasePage-INFO-截图成功
+2019-03-06 22:21:56,428-BasePage-ERROR-<pageobjects.home_page.HomePage object at 0x000001FED16796A0>单击失败('id', 'com.pdswp.su.smartcalendar:id/quick_add')！
+2019-03-06 22:22:08,293-BasePage-INFO-截图成功
+2019-03-06 22:22:08,293-BasePage-ERROR-<pageobjects.base.BasePage object at 0x000001FED1679630>页面元素未找到--('name', 'BWL02')
+2019-03-06 22:22:09,324-BasePage-INFO-截图成功
+2019-03-06 22:22:09,325-BasePage-ERROR-<pageobjects.base.BasePage object at 0x000001FED1679630>获取文本失败('name', 'BWL02')
+2019-03-06 22:22:21,043-BasePage-INFO-截图成功
+2019-03-06 22:22:21,043-BasePage-ERROR-<pageobjects.base.BasePage object at 0x000001FED1679630>页面元素未找到--('name', 'BWL01')
+2019-03-06 22:22:22,018-BasePage-INFO-截图成功
+2019-03-06 22:22:22,018-BasePage-ERROR-<pageobjects.base.BasePage object at 0x000001FED1679630>获取文本失败('name', 'BWL01')
+2019-03-06 22:22:22,018-Register-ERROR-admin添加备忘录断言失败

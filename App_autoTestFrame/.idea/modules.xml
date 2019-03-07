@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/App_autoTestFrame.iml" filepath="$PROJECT_DIR$/.idea/App_autoTestFrame.iml" />
+      <module fileurl="file://D:/自动化测试/py_workspace/Discuz_autoTestFrame/.idea/Discuz_autoTestFrame.iml" filepath="D:/自动化测试/py_workspace/Discuz_autoTestFrame/.idea/Discuz_autoTestFrame.iml" />
+    </modules>
+  </component>
+</project>

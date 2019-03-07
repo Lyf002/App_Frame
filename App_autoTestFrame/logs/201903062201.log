@@ -1,0 +1,19 @@
+2019-03-06 22:02:17,915-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x00000179885B66A0>找到页面元素('id', 'com.pdswp.su.smartcalendar:id/actionbar_left')
+2019-03-06 22:02:20,852-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x00000179885B66A0>点击('id', 'com.pdswp.su.smartcalendar:id/actionbar_left')
+2019-03-06 22:02:21,016-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x00000179885B66A0>找到页面元素('id', 'com.pdswp.su.smartcalendar:id/username')
+2019-03-06 22:02:21,295-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x00000179885B66A0>点击('id', 'com.pdswp.su.smartcalendar:id/username')
+2019-03-06 22:02:22,959-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x00000179885B66A0>找到页面元素('id', 'com.pdswp.su.smartcalendar:id/imageView4')
+2019-03-06 22:02:23,744-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x00000179885B66A0>点击('id', 'com.pdswp.su.smartcalendar:id/imageView4')
+2019-03-06 22:02:24,288-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x00000179885B66A0>找到页面元素('id', 'com.pdswp.su.smartcalendar:id/username')
+2019-03-06 22:02:26,758-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x00000179885B66A0>清除('id', 'com.pdswp.su.smartcalendar:id/username')文本框内容
+2019-03-06 22:02:26,809-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x00000179885B66A0>找到页面元素('id', 'com.pdswp.su.smartcalendar:id/username')
+2019-03-06 22:02:31,567-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x00000179885B66A0>输入('id', 'com.pdswp.su.smartcalendar:id/username')
+2019-03-06 22:02:32,118-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x00000179885B66A0>找到页面元素('id', 'com.pdswp.su.smartcalendar:id/quick_add')
+2019-03-06 22:02:35,285-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x00000179885B66A0>点击('id', 'com.pdswp.su.smartcalendar:id/quick_add')
+2019-03-06 22:02:35,377-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x00000179885B66A0>找到页面元素('id', 'com.pdswp.su.smartcalendar:id/ab_icon2')
+2019-03-06 22:02:36,109-BasePage-INFO-<pageobjects.home_page.HomePage object at 0x00000179885B66A0>点击('id', 'com.pdswp.su.smartcalendar:id/ab_icon2')
+2019-03-06 22:02:48,488-BasePage-INFO-截图成功
+2019-03-06 22:02:48,488-BasePage-ERROR-<pageobjects.base.BasePage object at 0x00000179885B6630>页面元素未找到--('id', 'com.pdswp.su.smartcalendar:id/username')
+2019-03-06 22:02:50,330-BasePage-INFO-截图成功
+2019-03-06 22:02:50,331-BasePage-ERROR-<pageobjects.base.BasePage object at 0x00000179885B6630>获取文本失败('id', 'com.pdswp.su.smartcalendar:id/username')
+2019-03-06 22:02:50,331-Modify-ERROR-用户名修改断言失败
